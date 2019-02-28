@@ -1,0 +1,8 @@
+/.idea/
+/build/
+.gradle/
+app/app.iml
+#crash.txt
+EBusinessApplication.iml
+local.properties
+*/.DS_Store
